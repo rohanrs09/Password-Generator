@@ -1,0 +1,8 @@
+1. Github account
+2. Empty Repo.
+3. local system
+      git config --global user.name "rohanshelke"
+      git config -global user.email "rohan_shelke_it@moderncoe.edu.in" 
+4.git push-u origin master 
+      4.1. username? -> LoveBabbar
+      4.2. password? -> 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
